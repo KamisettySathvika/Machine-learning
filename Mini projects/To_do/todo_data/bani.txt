@@ -1,0 +1,4 @@
+High,False,Complete this code
+High,False,2
+High,False,practice swimming
+Medium,True,Python assignment

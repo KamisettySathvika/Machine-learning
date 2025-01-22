@@ -1,0 +1,4 @@
+High,True,hello hi bye
+Low,False,bye
+None,True,hi
+High,False,hello

@@ -1,0 +1,2 @@
+High,False,buy chocolates
+None,False,& C:/Python312/python.exe "c:/Users/91800/OneDrive/Desktop/asrithA/suretrust/suretrust python/KAMISETTY-SATHVIKA-g32-python/Assignments/To_do/main.py"
